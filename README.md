@@ -18,7 +18,7 @@ This code implements a genetic algorithm to solve a binary classification proble
 
 ### 🙌 All together
 📽️ Refer this video for watching whole simulation on
-<a href="https://youtu.be/ioGkle-YrU8" target="_blank">YouTube.</a>
+<a href="https://youtu.be/xVEqZ3lY2Mk" target="_blank">YouTube.</a>
 
 ### Collaboration
 Collaborated with [Şevval Bulburu](https://github.com/sevvalbulburu)
